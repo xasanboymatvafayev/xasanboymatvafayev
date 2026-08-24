@@ -2,239 +2,217 @@
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=XASANBOY&fontSize=72&fontColor=ffffff&fontAlignY=42&animation=fadeIn&color=0:050505,45:090b12,75:111827,100:050505"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=XASANBOY%20MATVAFAYEV&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=FULL-STACK%20DEVELOPER&descSize=18&descAlignY=57&descColor=8B949E&animation=fadeIn&color=0:000000,30:020617,65:06111F,100:00CFFF"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=700&lines=FULL-STACK+DEVELOPER;BACKEND+ENGINEER;SOFTWARE+BUILDER;CREATING+WHAT'S+NEXT"/>
-
-<br><br>
-
-### `I BUILD DIGITAL EXPERIENCES.`
-
-<br>
-
-<sub>
-Software · Systems · Interfaces · Automation
-</sub>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3200&pause=1100&color=00D9FF&center=true&vCenter=true&width=720&lines=BUILDING+DIGITAL+EXPERIENCES;ENGINEERING+MODERN+SOFTWARE;DESIGNING+SYSTEMS+THAT+SCALE;TURNING+IDEAS+INTO+REALITY"/>
 
 <br><br>
 
 <a href="https://github.com/xasanboymatvafayev">
-<img src="https://img.shields.io/badge/GITHUB-0B0B0F?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/GITHUB-%2303080D?style=for-the-badge&logo=github&logoColor=white&labelColor=03080D&color=00CFFF"/>
 </a>
 
  
 
-<a href="https://t.me/">
-<img src="https://img.shields.io/badge/TELEGRAM-0B0B0F?style=for-the-badge&logo=telegram&logoColor=8B5CF6"/>
+<a href="https://t.me/xmtvv1">
+<img src="https://img.shields.io/badge/TELEGRAM-%2303080D?style=for-the-badge&logo=telegram&logoColor=white&labelColor=03080D&color=00CFFF"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=xasanboymatvafayev&label=PROFILE%20VIEWS&color=8B5CF6&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=xasanboymatvafayev&style=for-the-badge&color=00CFFF&label=VISITORS"/>
 
 </div>
 
 <br><br>
 
----
-
 <div align="center">
 
-## `01`
-
-# DIGITAL CRAFT
-
-<br>
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### `01`
-
-**ENGINEERING**
-
-<br>
-
-Building reliable
-software systems.
-
-</td>
-
-<td align="center" width="33%">
-
-### `02`
-
-**DESIGN**
-
-<br>
-
-Creating clean
-digital experiences.
-
-</td>
-
-<td align="center" width="33%">
-
-### `03`
-
-**PRODUCT**
-
-<br>
-
-Turning ideas
-into reality.
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-## `02`
-
-# THE STACK
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,vite,tailwind,html,css,python,fastapi,nodejs,express,postgres,mysql,redis,docker,linux,git,github,vscode&perline=10"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00CFFF"/>
 
 <br><br>
+
+# **I BUILD.**
+
+# **I CREATE.**
+
+# **I SHIP.**
+
+<br>
 
 <sub>
 
-`FRONTEND`   `BACKEND`   `DATABASES`   `INFRASTRUCTURE`
+Software engineering with a focus on
+**performance · architecture · experience**
 
 </sub>
 
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00CFFF"/>
+
 </div>
 
-<br>
-
----
-
-<div align="center">
-
-## `03`
-
-# CURRENTLY
-
-<br>
+<br><br>
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="60%" valign="middle">
 
-### `BUILDING`
-
-<br>
-
-**Scalable Web Applications**
+# `DESIGN × CODE`
 
 <br>
 
-Modern interfaces
-+
-powerful backend systems
+### **Where engineering meets creativity.**
+
+I build digital products with a strong focus on:
+
+<br>
+
+**01** — Architecture
+**02** — Performance
+**03** — User Experience
+**04** — Scalability
+
+<br>
+
+The goal is simple:
+
+### **Make complex things feel simple.**
 
 </td>
 
-<td width="50%" align="center">
+<td width="40%" align="center">
 
-### `EXPLORING`
-
-<br>
-
-**Systems & Architecture**
-
-<br>
-
-Performance
-·
-Infrastructure
-·
-Automation
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,python,fastapi,nodejs,tailwind,postgres,redis,docker,linux&perline=4"/>
 
 </td>
 </tr>
 </table>
 
-</div>
-
-<br>
-
----
+<br><br>
 
 <div align="center">
 
-## `04`
-
-# GITHUB
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=xasanboymatvafayev&show_icons=true&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=8B8B93&icon_color=8B5CF6&count_private=true&include_all_commits=true"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=1F2937"/>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=xasanboymatvafayev&hide_border=true&background=00000000&ring=8B5CF6&fire=8B5CF6&currStreakLabel=FFFFFF&sideLabels=8B8B93&dates=555555"/>
+### TECHNOLOGY IS THE TOOL.
+
+# **CREATIVITY IS THE ADVANTAGE.**
+
+<br><br>
 
 </div>
 
 <br>
 
----
+<table>
+<tr>
 
-<div align="center">
+<td align="center" width="33%">
 
-## `05`
+### ⚡
 
-# ACTIVITY
+**FAST**
 
 <br>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=xasanboymatvafayev&bg_color=00000000&color=8B5CF6&line=8B5CF6&point=FFFFFF&area=true&hide_border=true&custom_title="/>
+Performance-first
+engineering
+
+</td>
+
+<td align="center" width="34%">
+
+### ◈
+
+**CLEAN**
+
+<br>
+
+Minimal interfaces
+& architecture
+
+</td>
+
+<td align="center" width="33%">
+
+### ∞
+
+**SCALABLE**
+
+<br>
+
+Systems designed
+to grow
+
+</td>
+
+</tr>
+</table>
+
+<br><br>
+
+---
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=xasanboymatvafayev&show_icons=true&hide_border=true&bg_color=03080D&title_color=00D9FF&text_color=C9D1D9&icon_color=00D9FF&count_private=true"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=xasanboymatvafayev&hide_border=true&background=03080D&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=6E7681"/>
 
 </div>
 
-<br>
-
----
+<br><br>
 
 <div align="center">
 
-## `06`
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=xasanboymatvafayev&bg_color=03080D&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true"/>
 
-# CONNECT
+</div>
+
+<br><br>
+
+---
 
 <br>
+
+<div align="center">
+
+# LET'S BUILD
+
+# **SOMETHING GREAT.**
+
+<br><br>
 
 <a href="https://github.com/xasanboymatvafayev">
-<img src="https://img.shields.io/badge/GITHUB-09090B?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/EXPLORE-GITHUB-03080D?style=for-the-badge&logo=github&logoColor=white&color=00CFFF"/>
 </a>
 
-<a href="https://t.me/">
-<img src="https://img.shields.io/badge/TELEGRAM-09090B?style=for-the-badge&logo=telegram&logoColor=8B5CF6"/>
+ 
+
+<a href="https://t.me/xmtvv1">
+<img src="https://img.shields.io/badge/CONNECT-TELEGRAM-03080D?style=for-the-badge&logo=telegram&logoColor=white&color=00CFFF"/>
 </a>
+
+<br><br><br>
+
+<sub>
+
+Designed & built with curiosity.
+
+</sub>
 
 <br><br>
 
-### `LET'S BUILD SOMETHING GREAT.`
-
-<br>
-
-<sub>© 2026 XASANBOY MATVAFAYEV</sub>
-
-<br><br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:050505,40:111827,70:090b12,100:8B5CF6"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=footer&color=0:00CFFF,25:06111F,60:020617,100:000000"/>
 
 </div>
