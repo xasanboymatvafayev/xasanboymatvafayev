@@ -11,7 +11,7 @@
 <a href="https://github.com/xasanboymatvafayev">
   <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://t.me/">
+<a href="https://t.me/xmtvv1">
   <img src="https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
