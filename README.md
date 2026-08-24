@@ -1,234 +1,295 @@
 <div align="center">
 
-# `xasanboymatvafayev`
+# XASANBOY
 
-### Full-Stack Developer · Backend Engineer · Builder
+### `software / systems / experiments`
 
-**I turn ideas into fast, scalable and production-ready products.**
+<br>
 
-<br/>
+**I turn raw ideas into working products.**
 
-<a href="https://github.com/xasanboymatvafayev">
-  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://t.me/xmtvv1">
-  <img src="https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
+<br>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=xasanboymatvafayev&label=PROFILE%20VIEWS&color=161b22&style=flat-square" />
+`UZ`    `FULL-STACK`    `BACKEND`    `AUTOMATION`
 
 </div>
 
+<br>
+
 ---
 
-## `01` — About
+<table>
+<tr>
+<td valign="top" width="65%">
 
-```text
-Xasanboy Matvafayev
-────────────────────────────────────────────
+## 01 / INTRODUCTION
 
-Full-Stack Developer from Uzbekistan 🇺🇿
+I build software from the ground up.
 
-I build web applications, backend systems,
-APIs, automation tools and digital products.
+Not just interfaces.
 
-My focus:
-→ clean architecture
-→ scalable backend systems
-→ modern user experiences
-→ production-ready applications
-→ turning ideas into real products
+Not just APIs.
+
+**Complete systems.**
+
+From the first idea to architecture, database, frontend, backend and deployment — I like understanding how every piece fits together.
+
+My playground is the space between **product thinking and engineering.**
+
+</td>
+
+<td valign="top" width="35%">
+
+```text id="v2u7hs"
+┌─────────────────┐
+│                 │
+│   XASANBOY      │
+│                 │
+│   developer     │
+│   builder       │
+│   explorer      │
+│                 │
+└─────────────────┘
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## 02 / CURRENTLY
+
+```text id="u4l6bk"
+╭────────────────────────────────────────────────────────────╮
+│                                                            │
+│  BUILDING        real-world digital products               │
+│                                                            │
+│  EXPLORING       backend architecture & scalable systems   │
+│                                                            │
+│  WORKING WITH    React · Next.js · Python · Node.js        │
+│                                                            │
+│  INTERESTED IN   SaaS · automation · infrastructure        │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
 ```
 
 ---
 
-## `02` — Stack
+## 03 / THE TOOLBOX
 
-<div align="center">
+I don't collect technologies.
 
-### Frontend
+I use whatever solves the problem.
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,sass" />
+<br>
 
-### Backend
+**INTERFACE**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,django" />
+`React` `Next.js` `TypeScript` `JavaScript` `Vite` `Tailwind`
 
-### Database / Infrastructure
+**SERVER**
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker,linux,nginx" />
+`Node.js` `Express` `Python` `FastAPI` `Django`
 
-### Tools
+**DATA**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,pnpm,vercel" />
+`PostgreSQL` `MySQL` `Redis`
 
-</div>
+**INFRA**
 
----
-
-## `03` — Selected Work
-
-### `Baliq Savdosi`
-
-> Marketplace infrastructure for the fish-selling industry.
-
-A multi-role platform connecting **farms, clients, administrators, managers and drivers** in a single system.
-
-**Architecture**
-
-`React` · `Vite` · `TailwindCSS`
-`FastAPI` · `PostgreSQL` · `SQLAlchemy`
-`Redis` · `JWT` · `Docker`
-
-**Built around**
-
-* Role-based access control
-* Order management
-* Inventory automation
-* Driver assignment
-* GPS / delivery tracking
-* Admin management
-* Reports & analytics
+`Docker` `Linux` `Nginx` `Git`
 
 ---
 
-### `Giveaway Platform`
+# 04 / SELECTED WORK
 
-> A modern platform for managing digital giveaways.
+<br>
 
-Built with a focus on **performance, authentication, database architecture and deployment**.
+### `01 — BALIQLAR`
 
-**Stack**
+**A marketplace built around a real business workflow.**
 
-`Next.js` · `TypeScript` · `PostgreSQL`
-`Node.js` · `Redis` · `Docker`
+Fish farms publish products.
+Customers place orders.
+Administrators manage operations.
+Drivers handle delivery.
 
----
+The system connects all of them.
 
-### `Telegram Automation`
-
-> Bots that automate real business workflows.
-
-I build Telegram bots for:
-
-* automation
-* administration
-* notifications
-* user management
-* database-driven workflows
-* custom business logic
-
-**Stack**
-
-`Python` · `Aiogram` · `PostgreSQL` · `Redis`
-
----
-
-## `04` — Engineering
-
-```text
-              ┌──────────────────────┐
-              │        IDEA          │
-              └──────────┬───────────┘
-                         │
-                         ▼
-              ┌──────────────────────┐
-              │      ARCHITECTURE    │
-              └──────────┬───────────┘
-                         │
-                         ▼
-              ┌──────────────────────┐
-              │        BUILD         │
-              └──────────┬───────────┘
-                         │
-                         ▼
-              ┌──────────────────────┐
-              │        TEST          │
-              └──────────┬───────────┘
-                         │
-                         ▼
-              ┌──────────────────────┐
-              │       DEPLOY         │
-              └──────────┬───────────┘
-                         │
-                         ▼
-              ┌──────────────────────┐
-              │       IMPROVE        │
-              └──────────────────────┘
+```text id="l4xk93"
+CLIENT
+   │
+   ▼
+MARKETPLACE
+   │
+   ├──── FARM
+   │
+   ├──── ADMIN
+   │
+   ├──── MANAGER
+   │
+   └──── DRIVER
 ```
 
-I don't just write code.
+**Engineering**
 
-**I build systems.**
+`React` `FastAPI` `PostgreSQL` `Redis` `JWT` `Docker`
 
----
+**Focus**
 
-## `05` — GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=xasanboymatvafayev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xasanboymatvafayev&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=xasanboymatvafayev&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
-
-</div>
+`orders` · `inventory` · `roles` · `delivery` · `tracking`
 
 ---
 
-## `06` — Currently Building
+### `02 — GIVEAWAY`
 
-```text
-████████████████████████████████████████████████
+**A platform for running digital giveaways.**
 
-  ▸ Full-Stack Products
-  ▸ Backend Architecture
-  ▸ Automation Systems
-  ▸ Scalable APIs
-  ▸ SaaS Ideas
+Designed around users, authentication, administration and reliable backend infrastructure.
 
-████████████████████████████████████████████████
+```text id="xq2c2a"
+NEXT.JS
+   │
+   ▼
+APPLICATION
+   │
+   ├── AUTH
+   ├── USERS
+   ├── ADMIN
+   └── DATABASE
 ```
 
----
+**Engineering**
 
-## `07` — Principles
-
-**01** — Build before you overthink.
-
-**02** — Simple architecture beats unnecessary complexity.
-
-**03** — Every project should solve a real problem.
-
-**04** — Learn the technology by building with it.
-
-**05** — Ship. Measure. Improve.
+`Next.js` `TypeScript` `Node.js` `PostgreSQL` `Redis`
 
 ---
+
+### `03 — TELEGRAM AUTOMATION`
+
+**Bots that turn repetitive work into automated workflows.**
+
+```text id="2j4t6d"
+USER
+  │
+  ▼
+TELEGRAM
+  │
+  ▼
+BOT
+  │
+  ├── LOGIC
+  ├── DATABASE
+  └── AUTOMATION
+```
+
+**Engineering**
+
+`Python` `Aiogram` `PostgreSQL` `Redis`
+
+---
+
+## 05 / HOW I THINK
+
+```text id="f0q8bd"
+                    IDEA
+                     │
+                     ▼
+                  DEFINE
+                     │
+                     ▼
+                 ARCHITECT
+                     │
+                     ▼
+                   BUILD
+                     │
+                     ▼
+                   TEST
+                     │
+                     ▼
+                  DEPLOY
+                     │
+                     ▼
+                 ITERATE
+                     │
+                     └───────────────► REPEAT
+```
+
+**Good software isn't finished when it works.**
+
+It's finished when it works **well**.
+
+---
+
+## 06 / GITHUB
 
 <div align="center">
 
-## Let's build something.
+<img src="https://github-readme-stats.vercel.app/api?username=xasanboymatvafayev&show_icons=true&hide_border=true&bg_color=ffffff00&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&count_private=true"/>
 
-**Have an idea? Let's turn it into a product.**
+</div>
 
-<br/>
+<br>
 
-<a href="https://github.com/xasanboymatvafayev">
-  <img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-58a6ff?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<div align="center">
 
-<br/><br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=xasanboymatvafayev&hide_border=true&background=ffffff00&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"/>
 
-`© 2026 Xasanboy Matvafayev`
+</div>
+
+---
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## 07 / PRINCIPLES
+
+```text id="9br0n2"
+01  BUILD REAL THINGS
+
+02  KEEP IT SIMPLE
+
+03  UNDERSTAND THE SYSTEM
+
+04  SHIP EARLY
+
+05  IMPROVE CONSTANTLY
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+## 08 / FIND ME
+
+**GitHub**
+
+`github.com/xasanboymatvafayev`
+
+**Telegram**
+
+`@your_username`
+
+**Location**
+
+`Uzbekistan`
+
+</td>
+</tr>
+</table>
+
+---
+
+<br>
+
+<div align="center">
+
+### `THE BEST WAY TO PREDICT THE FUTURE IS TO BUILD IT.`
+
+<br>
+
+`XASANBOY / 2026`
 
 </div>
